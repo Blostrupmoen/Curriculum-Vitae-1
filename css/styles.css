@@ -1,0 +1,116 @@
+
+    body{
+     font-size: 17px;
+     font-family: arial;
+     background-color: #5AA897;
+     line-height: 1.5em;
+   }
+   h3{
+     font-size: 20px;
+     margin-left: 30px;
+   }
+    header{
+     background:#333;
+     color:#fff;
+     padding:20px;
+     text-align: center;
+     border-bottom: 4px #000 solid;
+     margin-bottom: 10px;
+     }
+
+
+     h2{
+     padding-left: 120px;
+     }
+
+    form{
+    position: relative; left:80px;
+}
+
+
+    label {
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+text-align: right;
+width: 400px;
+line-height: 26px;
+margin-bottom: 10px;
+}
+
+input {
+position:relative;
+height: 20px;
+flex: 0 0 200px;
+margin-left: 10px;
+width: 80px
+}
+
+span{
+font-size: 22px;
+
+
+color: #333;
+text-decoration: underline;
+position: relative;
+left: 50%;
+bottom: 60%;
+margin-top: 10px;
+margin-left: -100px;
+}
+
+.text-div{
+margin-left: 400px;
+
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+  margin-left: 10px;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+th,
+td {
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.year{
+  width: 200px;
+}
+.place{
+  width: 550px;
+
+}
+
+
+.subject{
+  width: 550px;
+}
+.inpYear{
+  width: 200px;
+  padding: 5px;
+
+
+
+}
+.inpPlace {
+  width: 550px;
+padding:5px;
+margin-left: 0px;
+
+
+}
+.inpSub{
+width: 550px;
+padding: 5px;
+margin-left: 0px;
+
+}
